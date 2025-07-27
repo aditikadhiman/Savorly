@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SavorlyApp</string>
+    <string name="savorly">Savorly</string>
+    <string name="welcometext">Feeling Hungry? What are we cooking Today? </string>
+    <string name="getStarted">Get Started</string>
+    <string name="searchtxt">Search by title or ingredient</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="Lunch">Lunch</string>
+    <string name="Dinner">Dinner</string>
+    <string name="Dessert">Dessert</string>
+    <string name="title">Name of Dish</string>
+    <string name="ingredient">Ingredients Used</string>
+    <string name="Instructions">Instructions</string>
+    <string name="Category">Category</string>
+    <string name="ratings">Ratings (out of 5)</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name = "edit_recipe">Edit Recipe</string>
+
+</resources>
